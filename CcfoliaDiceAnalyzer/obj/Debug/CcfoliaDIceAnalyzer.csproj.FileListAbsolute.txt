@@ -1,0 +1,10 @@
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\bin\Debug\CcfoliaDIceAnalyzer.exe.config
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\bin\Debug\CcfoliaDIceAnalyzer.exe
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\bin\Debug\CcfoliaDIceAnalyzer.pdb
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.csproj.AssemblyReference.cache
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.Properties.Resources.resources
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.csproj.GenerateResource.cache
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.exe
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.pdb
+C:\Users\fdom8\source\repos\CcfoliaDIceAnalyzer\CcfoliaDIceAnalyzer\obj\Debug\CcfoliaDIceAnalyzer.AppWindow.resources
