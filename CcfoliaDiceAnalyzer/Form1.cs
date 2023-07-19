@@ -370,7 +370,6 @@ namespace CcfoliaDIceAnalyzer
 
     public static class RichTextBoxExtensions
     {
-
         //AppendTextの拡張メソッド
         //参照：https://stackoverflow.com/questions/1926264/color-different-parts-of-a-richtextbox-string
         public static void AppendText(this RichTextBox box, string text, Color color)
