@@ -46,7 +46,7 @@ namespace CcfoliaDIceAnalyzer
             // ResultForm
             // 
             this.ResultForm.Font = new System.Drawing.Font("ＭＳ ゴシック", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.ResultForm.Location = new System.Drawing.Point(498, 350);
+            this.ResultForm.Location = new System.Drawing.Point(498, 500);
             this.ResultForm.Name = "ResultForm";
             this.ResultForm.Size = new System.Drawing.Size(375, 124);
             this.ResultForm.TabIndex = 0;
@@ -56,7 +56,7 @@ namespace CcfoliaDIceAnalyzer
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("ＭＳ ゴシック", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label1.Location = new System.Drawing.Point(514, 333);
+            this.label1.Location = new System.Drawing.Point(514, 483);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(343, 15);
             this.label1.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace CcfoliaDIceAnalyzer
             this.OutPutForm.Location = new System.Drawing.Point(498, 42);
             this.OutPutForm.Name = "OutPutForm";
             this.OutPutForm.ReadOnly = true;
-            this.OutPutForm.Size = new System.Drawing.Size(375, 288);
+            this.OutPutForm.Size = new System.Drawing.Size(375, 438);
             this.OutPutForm.TabIndex = 2;
             this.OutPutForm.Text = "";
             // 
@@ -104,7 +104,7 @@ namespace CcfoliaDIceAnalyzer
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("ＭＳ ゴシック", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.label4.Location = new System.Drawing.Point(495, 477);
+            this.label4.Location = new System.Drawing.Point(495, 627);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(375, 345);
             this.label4.TabIndex = 6;
